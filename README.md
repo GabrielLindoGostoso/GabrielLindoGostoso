@@ -1,6 +1,6 @@
 - # Sobre mim 
-- meu email de contato é gabriel.franca.lopes@escola.pr.gov.br
-- &#128563; Oi meu nome é @GabrielLindoGostoso
-- Eu estou interessado em aprender a programar novas linguagens.
-- Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath.
-- Estou no Colégio do campo Antonio Artemio França.
+- &#128568; meu email de contato é gabriel.franca.lopes@escola.pr.gov.br
+-  &#128526; Oi meu nome é @GabrielLindoGostoso
+- &#9997; Eu estou interessado em aprender a programar novas linguagens.
+- &#129299; Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath.
+- &#128587;&#8205;&#9794;&#65039; Estou no Colégio do campo Antonio Artemio França.
