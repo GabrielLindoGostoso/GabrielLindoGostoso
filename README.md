@@ -3,4 +3,4 @@
 - Oi meu nome é @GabrielLindoGostoso
 - Eu estou interessado em aprender a programar novas linguagens.
 - Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath.
-- Estou na Colégio do campo Antonio Artemio França.
+- Estou no Colégio do campo Antonio Artemio França.
